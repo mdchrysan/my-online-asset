@@ -3,4 +3,4 @@ This repo was made for use with my projects on the internet. All photos or asses
 
 ## How to Use
 Site this link along with its folder and filename on your href code: <br>
-`https://raw.githubusercontent.com/mdchrysan/my-static-assets/master/[folder]/[file.png]`
+`https://raw.githubusercontent.com/mdchrysan/my-online-asset/main/[folder]/[file.JPG]`
